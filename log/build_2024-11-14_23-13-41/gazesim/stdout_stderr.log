@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/gazesim/gazesim.egg-info/PKG-INFO
+writing dependency_links to ../../build/gazesim/gazesim.egg-info/dependency_links.txt
+writing entry points to ../../build/gazesim/gazesim.egg-info/entry_points.txt
+writing requirements to ../../build/gazesim/gazesim.egg-info/requires.txt
+writing top-level names to ../../build/gazesim/gazesim.egg-info/top_level.txt
+reading manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+writing manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/display.launch.py -> /home/petomartin/ros2_ws/install/gazesim/share/gazesim/launch
+running install_egg_info
+removing '/home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/gazesim/gazesim.egg-info to /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim-0.0.0-py3.10.egg-info
+running install_scripts
+Installing sensor_handler_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+Installing status_logger_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+Installing teleop_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+writing list of installed files to '/home/petomartin/ros2_ws/build/gazesim/install.log'

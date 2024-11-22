@@ -1,0 +1,6 @@
+source;share/gazesim/hook/pythonpath.ps1
+source;share/gazesim/hook/pythonpath.dsv
+source;share/gazesim/hook/pythonpath.sh
+source;../../build/gazesim/share/gazesim/hook/pythonpath_develop.ps1
+source;../../build/gazesim/share/gazesim/hook/pythonpath_develop.dsv
+source;../../build/gazesim/share/gazesim/hook/pythonpath_develop.sh

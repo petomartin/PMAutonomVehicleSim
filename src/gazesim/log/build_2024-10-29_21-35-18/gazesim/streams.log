@@ -1,0 +1,33 @@
+[0.702s] Invoking command in '/home/petomartin/ros2_ws/src/gazesim/build/gazesim': PYTHONPATH=/home/petomartin/ros2_ws/src/gazesim/build/gazesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/petomartin/ros2_ws/src/gazesim/build/gazesim/build --no-deps symlink_data
+[0.896s] running develop
+[0.897s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.897s]   warnings.warn(
+[1.022s] running egg_info
+[1.022s] creating gazesim.egg-info
+[1.024s] writing gazesim.egg-info/PKG-INFO
+[1.024s] writing dependency_links to gazesim.egg-info/dependency_links.txt
+[1.025s] writing entry points to gazesim.egg-info/entry_points.txt
+[1.025s] writing requirements to gazesim.egg-info/requires.txt
+[1.025s] writing top-level names to gazesim.egg-info/top_level.txt
+[1.025s] writing manifest file 'gazesim.egg-info/SOURCES.txt'
+[1.026s] reading manifest file 'gazesim.egg-info/SOURCES.txt'
+[1.027s] writing manifest file 'gazesim.egg-info/SOURCES.txt'
+[1.028s] running build_ext
+[1.028s] Creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/python3.10/site-packages/gazesim.egg-link (link to .)
+[1.029s] Installing sensor_handler_node script to /home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/gazesim
+[1.030s] Installing status_logger_node script to /home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/gazesim
+[1.030s] 
+[1.030s] Installed /home/petomartin/ros2_ws/src/gazesim/build/gazesim
+[1.030s] running symlink_data
+[1.030s] creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share
+[1.031s] creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index
+[1.032s] creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index/resource_index
+[1.032s] creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index/resource_index/packages
+[1.033s] symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/resource/gazesim -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index/resource_index/packages
+[1.033s] creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim
+[1.034s] symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/package.xml -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim
+[1.035s] creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+[1.035s] symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/launch/gazesim_launch.py -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+[1.036s] symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/launch/display.launch.py -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+[1.036s] symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/launch/vehicle_launch.py -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+[1.058s] Invoked command in '/home/petomartin/ros2_ws/src/gazesim/build/gazesim' returned '0': PYTHONPATH=/home/petomartin/ros2_ws/src/gazesim/build/gazesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/petomartin/ros2_ws/src/gazesim/build/gazesim/build --no-deps symlink_data

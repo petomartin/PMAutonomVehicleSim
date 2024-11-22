@@ -1,0 +1,24 @@
+[0.831s] Invoking command in '/home/petomartin/ros2_ws/src/gazesim': PYTHONPATH=/home/petomartin/ros2_ws/build/gazesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gazesim build --build-base /home/petomartin/ros2_ws/build/gazesim/build install --record /home/petomartin/ros2_ws/build/gazesim/install.log --single-version-externally-managed install_data
+[1.081s] running egg_info
+[1.082s] writing ../../build/gazesim/gazesim.egg-info/PKG-INFO
+[1.082s] writing dependency_links to ../../build/gazesim/gazesim.egg-info/dependency_links.txt
+[1.083s] writing entry points to ../../build/gazesim/gazesim.egg-info/entry_points.txt
+[1.083s] writing requirements to ../../build/gazesim/gazesim.egg-info/requires.txt
+[1.083s] writing top-level names to ../../build/gazesim/gazesim.egg-info/top_level.txt
+[1.086s] reading manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+[1.087s] writing manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+[1.087s] running build
+[1.087s] running build_py
+[1.087s] running install
+[1.088s] running install_lib
+[1.090s] running install_data
+[1.090s] copying launch/gazesim_launch.py -> /home/petomartin/ros2_ws/install/gazesim/share/gazesim/launch
+[1.090s] running install_egg_info
+[1.092s] removing '/home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim-0.0.0-py3.10.egg-info' (and everything under it)
+[1.092s] Copying ../../build/gazesim/gazesim.egg-info to /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim-0.0.0-py3.10.egg-info
+[1.093s] running install_scripts
+[1.113s] Installing sensor_handler_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+[1.114s] Installing status_logger_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+[1.114s] Installing teleop_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+[1.114s] writing list of installed files to '/home/petomartin/ros2_ws/build/gazesim/install.log'
+[1.145s] Invoked command in '/home/petomartin/ros2_ws/src/gazesim' returned '0': PYTHONPATH=/home/petomartin/ros2_ws/build/gazesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gazesim build --build-base /home/petomartin/ros2_ws/build/gazesim/build install --record /home/petomartin/ros2_ws/build/gazesim/install.log --single-version-externally-managed install_data

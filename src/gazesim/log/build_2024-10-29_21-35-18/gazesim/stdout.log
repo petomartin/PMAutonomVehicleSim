@@ -1,0 +1,29 @@
+running develop
+running egg_info
+creating gazesim.egg-info
+writing gazesim.egg-info/PKG-INFO
+writing dependency_links to gazesim.egg-info/dependency_links.txt
+writing entry points to gazesim.egg-info/entry_points.txt
+writing requirements to gazesim.egg-info/requires.txt
+writing top-level names to gazesim.egg-info/top_level.txt
+writing manifest file 'gazesim.egg-info/SOURCES.txt'
+reading manifest file 'gazesim.egg-info/SOURCES.txt'
+writing manifest file 'gazesim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/python3.10/site-packages/gazesim.egg-link (link to .)
+Installing sensor_handler_node script to /home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/gazesim
+Installing status_logger_node script to /home/petomartin/ros2_ws/src/gazesim/install/gazesim/lib/gazesim
+
+Installed /home/petomartin/ros2_ws/src/gazesim/build/gazesim
+running symlink_data
+creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share
+creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index
+creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index/resource_index
+creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index/resource_index/packages
+symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/resource/gazesim -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/ament_index/resource_index/packages
+creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim
+symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/package.xml -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim
+creating /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/launch/gazesim_launch.py -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/launch/display.launch.py -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch
+symbolically linking /home/petomartin/ros2_ws/src/gazesim/build/gazesim/launch/vehicle_launch.py -> /home/petomartin/ros2_ws/src/gazesim/install/gazesim/share/gazesim/launch

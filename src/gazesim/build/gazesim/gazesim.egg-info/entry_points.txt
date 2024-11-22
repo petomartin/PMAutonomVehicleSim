@@ -1,0 +1,4 @@
+[console_scripts]
+sensor_handler_node = gazesim.sensor_handler_node:main
+status_logger_node = gazesim.status_logger_node:main
+

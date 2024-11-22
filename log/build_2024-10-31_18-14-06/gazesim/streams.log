@@ -1,0 +1,51 @@
+[0.984s] Invoking command in '/home/petomartin/ros2_ws/src/gazesim': PYTHONPATH=/home/petomartin/ros2_ws/build/gazesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gazesim build --build-base /home/petomartin/ros2_ws/build/gazesim/build install --record /home/petomartin/ros2_ws/build/gazesim/install.log --single-version-externally-managed install_data
+[1.278s] running egg_info
+[1.279s] creating ../../build/gazesim/gazesim.egg-info
+[1.279s] writing ../../build/gazesim/gazesim.egg-info/PKG-INFO
+[1.279s] writing dependency_links to ../../build/gazesim/gazesim.egg-info/dependency_links.txt
+[1.280s] writing entry points to ../../build/gazesim/gazesim.egg-info/entry_points.txt
+[1.280s] writing requirements to ../../build/gazesim/gazesim.egg-info/requires.txt
+[1.280s] writing top-level names to ../../build/gazesim/gazesim.egg-info/top_level.txt
+[1.280s] writing manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+[1.283s] reading manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+[1.284s] writing manifest file '../../build/gazesim/gazesim.egg-info/SOURCES.txt'
+[1.284s] running build
+[1.285s] running build_py
+[1.285s] creating /home/petomartin/ros2_ws/build/gazesim/build
+[1.285s] creating /home/petomartin/ros2_ws/build/gazesim/build/lib
+[1.285s] creating /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim
+[1.286s] copying gazesim/status_logger_node.py -> /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim
+[1.286s] copying gazesim/__init__.py -> /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim
+[1.286s] copying gazesim/keyboard_controller.py -> /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim
+[1.287s] copying gazesim/sensor_handler_node.py -> /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim
+[1.287s] copying gazesim/path_planning_node.py -> /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim
+[1.288s] running install
+[1.289s] running install_lib
+[1.291s] creating /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim
+[1.291s] copying /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim/status_logger_node.py -> /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim
+[1.292s] copying /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim/__init__.py -> /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim
+[1.292s] copying /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim/keyboard_controller.py -> /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim
+[1.292s] copying /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim/sensor_handler_node.py -> /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim
+[1.292s] copying /home/petomartin/ros2_ws/build/gazesim/build/lib/gazesim/path_planning_node.py -> /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim
+[1.295s] byte-compiling /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim/status_logger_node.py to status_logger_node.cpython-310.pyc
+[1.297s] byte-compiling /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim/__init__.py to __init__.cpython-310.pyc
+[1.297s] byte-compiling /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim/keyboard_controller.py to keyboard_controller.cpython-310.pyc
+[1.297s] byte-compiling /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim/sensor_handler_node.py to sensor_handler_node.cpython-310.pyc
+[1.298s] byte-compiling /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim/path_planning_node.py to path_planning_node.cpython-310.pyc
+[1.298s] running install_data
+[1.298s] creating /home/petomartin/ros2_ws/install/gazesim/share/ament_index
+[1.299s] creating /home/petomartin/ros2_ws/install/gazesim/share/ament_index/resource_index
+[1.299s] creating /home/petomartin/ros2_ws/install/gazesim/share/ament_index/resource_index/packages
+[1.300s] copying resource/gazesim -> /home/petomartin/ros2_ws/install/gazesim/share/ament_index/resource_index/packages
+[1.301s] copying package.xml -> /home/petomartin/ros2_ws/install/gazesim/share/gazesim
+[1.301s] creating /home/petomartin/ros2_ws/install/gazesim/share/gazesim/launch
+[1.301s] copying launch/gazesim_launch.py -> /home/petomartin/ros2_ws/install/gazesim/share/gazesim/launch
+[1.302s] copying launch/display.launch.py -> /home/petomartin/ros2_ws/install/gazesim/share/gazesim/launch
+[1.304s] copying launch/vehicle_launch.py -> /home/petomartin/ros2_ws/install/gazesim/share/gazesim/launch
+[1.304s] running install_egg_info
+[1.307s] Copying ../../build/gazesim/gazesim.egg-info to /home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages/gazesim-0.0.0-py3.10.egg-info
+[1.309s] running install_scripts
+[1.336s] Installing sensor_handler_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+[1.337s] Installing status_logger_node script to /home/petomartin/ros2_ws/install/gazesim/lib/gazesim
+[1.337s] writing list of installed files to '/home/petomartin/ros2_ws/build/gazesim/install.log'
+[1.375s] Invoked command in '/home/petomartin/ros2_ws/src/gazesim' returned '0': PYTHONPATH=/home/petomartin/ros2_ws/build/gazesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/install/gazesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/gazesim build --build-base /home/petomartin/ros2_ws/build/gazesim/build install --record /home/petomartin/ros2_ws/build/gazesim/install.log --single-version-externally-managed install_data

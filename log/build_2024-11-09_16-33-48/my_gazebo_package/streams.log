@@ -1,0 +1,26 @@
+[1.167s] Invoking command in '/home/petomartin/ros2_ws/build/my_gazebo_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/petomartin/ros2_ws/install/my_robot_controller:/home/petomartin/ros2_ws/install/gazesim:/home/petomartin/install/my_robot_controller:/home/petomartin/install/ament_cmake_core:/opt/ros/humble /usr/bin/cmake --build /home/petomartin/ros2_ws/build/my_gazebo_package -- -j8 -l8
+[1.341s] [100%] Built target my_robot_node
+[2.174s] Invoked command in '/home/petomartin/ros2_ws/build/my_gazebo_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/petomartin/ros2_ws/install/my_robot_controller:/home/petomartin/ros2_ws/install/gazesim:/home/petomartin/install/my_robot_controller:/home/petomartin/install/ament_cmake_core:/opt/ros/humble /usr/bin/cmake --build /home/petomartin/ros2_ws/build/my_gazebo_package -- -j8 -l8
+[2.362s] Invoking command in '/home/petomartin/ros2_ws/build/my_gazebo_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/petomartin/ros2_ws/install/my_robot_controller:/home/petomartin/ros2_ws/install/gazesim:/home/petomartin/install/my_robot_controller:/home/petomartin/install/ament_cmake_core:/opt/ros/humble /usr/bin/cmake --install /home/petomartin/ros2_ws/build/my_gazebo_package
+[2.383s] -- Install configuration: ""
+[2.384s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/lib/my_gazebo_package/my_robot_node
+[2.388s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/ament_index/resource_index/package_run_dependencies/my_gazebo_package
+[2.388s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/ament_index/resource_index/parent_prefix_path/my_gazebo_package
+[2.388s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/environment/ament_prefix_path.sh
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/environment/ament_prefix_path.dsv
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/environment/path.sh
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/environment/path.dsv
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/local_setup.bash
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/local_setup.sh
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/local_setup.zsh
+[2.389s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/local_setup.dsv
+[2.390s] -- Installing: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/package.dsv
+[2.390s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/ament_index/resource_index/packages/my_gazebo_package
+[2.390s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/cmake/my_gazebo_packageConfig.cmake
+[2.390s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/cmake/my_gazebo_packageConfig-version.cmake
+[2.390s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package/package.xml
+[2.390s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package//launch
+[2.390s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package//launch/my_gazebo_launch.py
+[2.391s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package//world
+[2.391s] -- Up-to-date: /home/petomartin/ros2_ws/install/my_gazebo_package/share/my_gazebo_package//world/my_world.world
+[2.403s] Invoked command in '/home/petomartin/ros2_ws/build/my_gazebo_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/petomartin/ros2_ws/install/my_robot_controller:/home/petomartin/ros2_ws/install/gazesim:/home/petomartin/install/my_robot_controller:/home/petomartin/install/ament_cmake_core:/opt/ros/humble /usr/bin/cmake --install /home/petomartin/ros2_ws/build/my_gazebo_package

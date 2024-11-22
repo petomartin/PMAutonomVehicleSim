@@ -1,0 +1,10 @@
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/uninstall.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/my_gazebo_package_uninstall.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/my_robot_node.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/test.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/edit_cache.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/rebuild_cache.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/list_install_components.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/install.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/install/local.dir
+/home/petomartin/ros2_ws/build/my_gazebo_package/CMakeFiles/install/strip.dir

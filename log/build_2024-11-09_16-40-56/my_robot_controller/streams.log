@@ -1,0 +1,24 @@
+[2.473s] Invoking command in '/home/petomartin/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/petomartin/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/petomartin/ros2_ws/build/my_robot_controller/build install --record /home/petomartin/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[3.102s] running egg_info
+[3.105s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[3.107s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[3.107s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[3.108s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[3.108s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[3.112s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[3.114s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[3.114s] running build
+[3.114s] running build_py
+[3.115s] running install
+[3.116s] running install_lib
+[3.119s] running install_data
+[3.120s] running install_egg_info
+[3.126s] removing '/home/petomartin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[3.126s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/petomartin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[3.128s] running install_scripts
+[3.187s] Installing draw_circle script to /home/petomartin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.188s] Installing pose_subscriber script to /home/petomartin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.188s] Installing test_node script to /home/petomartin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.188s] Installing turtle_controller script to /home/petomartin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.189s] writing list of installed files to '/home/petomartin/ros2_ws/build/my_robot_controller/install.log'
+[3.272s] Invoked command in '/home/petomartin/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/petomartin/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/petomartin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/petomartin/ros2_ws/build/my_robot_controller/build install --record /home/petomartin/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
